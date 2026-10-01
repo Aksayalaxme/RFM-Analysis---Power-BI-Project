@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Uploading Dashboard Image.png…]()
+![Power BI RFM Customer Segmentation Dashboard](dashboard.png)
 
 ## 📌 Project Overview
 
